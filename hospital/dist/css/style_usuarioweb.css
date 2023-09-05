@@ -1,0 +1,20 @@
+div#citas.tab-pane.p-20.active.show, div#lab.tab-pane.p-20.active.show, div#home.tab-pane.p-20.active.show, div#profile.tab-pane.p-20.active.show {
+    padding: 2%;
+}
+
+div.card-body.wizard-content{
+    background-color:#f3ffd9;
+    color: rgb(2, 60, 248);
+}
+
+div#icon.col-2, div#icon.col-8
+{
+
+display: flex;
+align-items: center;
+justify-content: center;
+}
+button#inicio
+{
+
+}

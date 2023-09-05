@@ -1,0 +1,183 @@
+body , h1, h2, h3 , h4, h5 , h6{
+    font-family: 'Archivo Narrow', sans-serif !important;
+}
+
+
+
+
+img.img-rounded.img-fluid {
+    margin: 10px 1px 10px;
+}
+
+
+/*-----------------------------  */
+
+button.btn.btn-link {
+    color: white;
+    font-size: 24px;
+    text-shadow: -1px 1px 1px black;
+    text-decoration: none;
+}
+
+
+/*-----------------------------  */
+
+button.btn.btn-link.collapsed {
+    color: rgb(191, 241, 11);
+    font-size: 24px;
+}
+
+
+/*-----------------------------  */
+
+input.form-control,
+textarea.resizable_textarea.form-control,
+select#heard.form-control,
+.form-control {
+    border-color: #2A3F54;
+}
+
+
+/*-----------------------------  */
+
+h5.mb-0 {
+    text-align: center;
+    background-color: #a2d5cf;
+}
+
+
+/*-----------------------------  */
+
+div.card-title {
+    text-align: center;
+    color: #ffffff;
+    text-shadow: -1px 1px 1px rgb(8, 8, 8);
+}
+
+
+/*-----------------------------  */
+
+
+/*-----------------------------  */
+
+h4.card-title,
+h6.card-subtitle {
+    text-align: center;
+}
+
+
+/* ------------------------------------------- */
+
+.table-fixed tbody {
+    height: 300px;
+    /* altura maxima de la tabla */
+    overflow-y: auto;
+    width: 100%;
+}
+
+
+/*-----------------------------  */
+
+.table-fixed thead,
+.table-fixed tbody,
+.table-fixed td,
+.table-fixed th {
+    display: block;
+}
+
+
+/*-----------------------------  */
+
+.table-fixed tbody td,
+.table-fixed thead>tr>th {
+    float: left;
+    border-bottom-width: 4;
+}
+
+
+/*-----------------------------  */
+
+td {
+    text-align: justify;
+}
+
+
+/*-----------------------------  */
+
+
+/*-----------------------------  */
+
+div.card,
+div.card-body {
+    padding: 2px;
+    margin: 1px;
+    background-color: #f9f9f9;
+}
+
+
+/*-----------------------------  */
+
+div.container-fluid {
+    padding: 2px;
+}
+
+
+/*-----------------------------  */
+
+div.p-20 {
+    padding: 5px !important;
+    margin: 0px;
+}
+
+
+/*-----------------------------  */
+
+h5.titulo {
+    background: #3468f8;
+    color: #ffff;
+    text-shadow: -1px 1px 1px rgb(8, 8, 8);
+    text-align: center;
+}
+
+
+/*-----------------------------  */
+
+h5.titulo2 {
+    background: #1ABB9C;
+    color: #ffff;
+    text-shadow: -1px 1px 1px rgb(8, 8, 8);
+    text-align: center;
+}
+
+
+/*-----------------------------  */
+
+div.card,
+div.p-20 {
+    /*   background-color: transparent!important; */
+}
+
+
+/*-----------------------------  */
+
+div#dashb.card {
+    background-color: transparent !important;
+}
+
+
+/*-----------------------------  */
+
+button.btn.btn-block.btn-lg.btn-info {
+    color: rgb(153, 241, 11)!important;
+    font-size: 124px!important;
+}
+
+
+/*-----------------------------  */
+
+div.card-header#historial {
+    background-color: #d0eae7;
+}
+
+
+/*-----------------------------  */

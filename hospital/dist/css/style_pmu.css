@@ -1,0 +1,14 @@
+a.btn.btn-danger
+{
+    width: 33.33%;
+}
+
+
+
+
+input.form-control,
+textarea.resizable_textarea.form-control,
+select#heard.form-control
+.form-control {
+    border-color: #00C292;
+}
